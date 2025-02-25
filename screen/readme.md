@@ -3,6 +3,8 @@
 **Диалог с клиентом**  
 ![Диалог с клиентом](https://github.com/VladimirMenshikov/AI-Assistant-in-Telegram/blob/main/screen/IPT02-HW-2.jpg)
 ![Диалог с клиентом](https://github.com/VladimirMenshikov/AI-Assistant-in-Telegram/blob/main/screen/IPT02-HW-3.jpg)
+
+**Пример неадекватного запроса**  
 ![Диалог с клиентом](https://github.com/VladimirMenshikov/AI-Assistant-in-Telegram/blob/main/screen/IPT02-HW-4.jpg)
 
 **Запись в Google календарь**  
